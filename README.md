@@ -1,6 +1,7 @@
 # Nu6550
 
 Replacement for the MOS 6550 1kbx4 SRAM using modern components.
+This is just a fork off the original by go4retro. All credits belong to him.
 
 ## Introduction
 
